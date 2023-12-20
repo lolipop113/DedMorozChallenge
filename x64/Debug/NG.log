@@ -1,0 +1,10 @@
+﻿  algoritm.cpp
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(73,34): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(75,34): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(80,39): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(87,39): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(126,38): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(127,37): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(144,46): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(187,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  NG.vcxproj -> C:\Users\Александр Матросов\Desktop\MP3\biba\x64\Debug\NG.exe

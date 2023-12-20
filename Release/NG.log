@@ -1,0 +1,11 @@
+﻿  algoritm.cpp
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(38,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(149,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(176,31): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  work_file.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 546 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  NG.vcxproj -> C:\Users\Александр Матросов\Desktop\MP3\biba\Release\NG.exe

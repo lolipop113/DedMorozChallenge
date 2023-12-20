@@ -1,0 +1,46 @@
+﻿  algoritm.cpp
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(75,34): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(77,34): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(82,39): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(89,39): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(128,38): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(129,37): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(146,46): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\algoritm.cpp(189,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\main.cpp(21,48): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Александр Матросов\Desktop\MP3\biba\NG\main.cpp(28,51): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(1741,98): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits(1741,98):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Александр Матросов\Desktop\MP3\biba\NG\main.cpp(15,14):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "std::thread::thread<void(__cdecl &)(std::vector<Child,std::allocator<Child>> &,std::ifstream &,const int &,const int &),std::reference_wrapper<std::vector<Child,std::allocator<Child>>>,std::reference_wrapper<std::ifstream>,int,unsigned __int64,0>(_Fn,std::reference_wrapper<std::vector<Child,std::allocator<Child>>> &&,std::reference_wrapper<std::ifstream> &&,int &&,unsigned __int64 &&)"
+          with
+          [
+              _Fn=void (__cdecl &)(std::vector<Child,std::allocator<Child>> &,std::ifstream &,const int &,const int &)
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\thread(93,9):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::thread::_Start<void(__cdecl &)(std::vector<Child,std::allocator<Child>> &,std::ifstream &,const int &,const int &),_Ty,std::reference_wrapper<std::ifstream>,int,unsigned __int64>(_Fn,_Ty &&,std::reference_wrapper<std::ifstream> &&,int &&,unsigned __int64 &&)"
+          with
+          [
+              _Ty=std::reference_wrapper<std::vector<Child,std::allocator<Child>>>,
+              _Fn=void (__cdecl &)(std::vector<Child,std::allocator<Child>> &,std::ifstream &,const int &,const int &)
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\thread(76,40):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2,3,4>(std::integer_sequence<size_t,0,1,2,3,4>) noexcept)(void *) noexcept"
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\thread(67,17):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int std::thread::_Invoke<_Tuple,0,1,2,3,4>(void *) noexcept"
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\thread(60,14):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::invoke<void(__cdecl *)(std::vector<Child,std::allocator<Child>> &,std::ifstream &,const int &,const int &),std::reference_wrapper<std::vector<Child,std::allocator<Child>>>,std::reference_wrapper<std::ifstream>,int,unsigned __int64>(_Callable &&,_Ty1 &&,std::reference_wrapper<std::ifstream> &&,int &&,unsigned __int64 &&) noexcept(false)"
+          with
+          [
+              _Callable=void (__cdecl *)(std::vector<Child,std::allocator<Child>> &,std::ifstream &,const int &,const int &),
+              _Ty1=std::reference_wrapper<std::vector<Child,std::allocator<Child>>>
+          ]
+  
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 546 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  NG.vcxproj -> C:\Users\Александр Матросов\Desktop\MP3\biba\x64\Release\NG.exe
